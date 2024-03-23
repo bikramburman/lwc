@@ -1,0 +1,2 @@
+# lwc
+lwc basic class
